@@ -65,11 +65,4 @@
       </block>
     </statement>
   </block>
-  <block type="oled_drawnumber" id="16" inline="true" x="280" y="210">
-    <value name="NUMBER">
-      <block type="sensor_light" id="17">
-        <field name="LIGHT">RIGHT</field>
-      </block>
-    </value>
-  </block>
 </xml>
